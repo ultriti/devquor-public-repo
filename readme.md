@@ -1,5 +1,10 @@
 # Devgram / Devquor Public Overview
 
+This document is intended for public reference and showcases selected code samples. The original source files and full implementations remain the intellectual property of the author. For access to complete information or collaboration inquiries, please contact Ultriti via the same email address associated with the author’s GitHub profile. All sensitive data is securely maintained in private repositories to ensure confidentiality and integrity
+
+visit the app on this link [https://devquor.ultriti.com/](https://devquor.ultriti.com/ "Visit Devquor")
+
+
 ## Devgram at a Glance
 
 Devgram is a modern social experience designed specifically for developers and technical communities. It blends fast content sharing, meaningful conversations, and focused community spaces into one intuitive platform.
