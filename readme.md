@@ -272,3 +272,34 @@ Devgram is powered by modern web technologies:
 This makes the platform both polished and practical for a technical audience.
 
 ---
+---
+
+# 📚 Complete Project Walkthrough Playlist
+
+Looking for a deeper understanding of **DevQuor**?
+
+The complete walkthrough playlist contains detailed explanations of the project's architecture, implementation, and development process. New videos will be added regularly as the project evolves.
+
+🎥 **Watch the Full Playlist**
+
+[![Watch the Full Playlist](Thumnail/devquor_project_exp_1.jpeg)](https://youtube.com/playlist?list=PLQkHnXyNVTEg&si=inlGEWH1J6gVgkfk)
+
+## 📖 Playlist Includes
+
+- 🏗️ Project Architecture
+- 🎨 Frontend UI Development
+- ⚛️ React Component Design
+- 🔄 Frontend ↔ Backend Communication
+- 🔐 Authentication & Authorization
+- 📝 Upload (Post) Management
+- ❤️ Like & Unlike Functionality
+- 👤 Profile Page & Profile Editing
+- 💬 Real-time Communication
+- 🗄️ MongoDB Database Design
+- 🌐 REST API Development
+- 📂 Folder Structure & Code Organization
+- 🧠 Code Flow & Logic Explanation
+- 🚀 Deployment Process
+- ✨ Upcoming Features & Improvements
+
+> **Note:** This playlist is actively maintained and will continue to grow as new features are added to DevQuor. If you're interested in understanding how the project is built from the ground up, consider following the playlist for future updates.
