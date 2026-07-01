@@ -6,7 +6,7 @@ The current video provides an overview of the project's architecture, major feat
 
 > 📌 Click the thumbnail below to watch the current walkthrough.
 
-[![DevQuor Project Walkthrough](Thumnail/devquor_project_exp_1.jpeg)](https://youtu.be/KqnNpK2jnG8?si=oJoN-CiFGGqFg9wN)
+[![DevQuor Project Walkthrough](../Thumnail/devquor_project_exp_1.jpeg)](https://youtu.be/KqnNpK2jnG8?si=oJoN-CiFGGqFg9wN)
 
 ## 📖 What's Covered
 
