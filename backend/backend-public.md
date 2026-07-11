@@ -80,6 +80,9 @@ This document is a public-facing backend overview intended for interviewer revie
 - `GET /api/upload/getAuthorUploads`
   - Authenticated route for author uploads
 
+- `POST /api/upload/modifyUploads/:uploads_id`
+  - Update / modify upload detail
+
 - Additional content routes for thoughts, replies, bookmarks, and comments are also available.
 
 ### Chat and Real-time Messaging

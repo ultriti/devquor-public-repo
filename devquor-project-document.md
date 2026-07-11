@@ -141,6 +141,7 @@ Devgram (also referenced as Devquor in the repository) is a full-stack social pl
 
 ### Uploads and Social Interaction
 - Create upload post
+- Update / modify upload Detail ( thought )
 - Fetch all uploads with pagination
 - Fetch author-specific uploads
 - Get detailed upload with comments and stats
