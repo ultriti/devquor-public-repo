@@ -89,6 +89,7 @@ This document is a public-facing backend overview intended for interviewer revie
 
 - `POST /api/cluster/createCluster`
 - `POST /api/cluster/joinCluster`
+- `delete /deleteCluster/:cluster_id`
 - `GET /api/cluster/getAuthorMsgedClusters`
 - `POST /api/cluster/getClusterDetail`
 - `POST /api/cluster/sendClusterMessage/:cluster_id`

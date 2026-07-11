@@ -225,6 +225,7 @@ Devgram (also referenced as Devquor in the repository) is a full-stack social pl
 | `/sendMessageToPerson` | POST | Yes | `{ receiverId, message }` | `201 { success:true, message:"Message sent successfully", sentMessage, userInPersonMessages }` | `400` invalid user / cannot send, `500` |
 | `/getMessageToPerson/:receiverId` | GET | Yes | `?page=&limit=` | `200 { success:true, message:"Messages found!", receiver, messages, getInPersonInfo, page, limit, countResult }` | `404` none found, `500` |
 | `/delete-image/:public_id` | DELETE | Yes | none | `200 { success:true, message:"Image deleted successfully", result }` | `404` not found, `500` |
+| `/deleteCluster/:cluster_id` | DELETE | Yes | none | `201 { success: true, message: "Cluster deleted successfully", sucess:true }` | `404` not found,`400` credenatil req,`403` athorization, `500` |
 
 ## 9. Authentication Flow
 
